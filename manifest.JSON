@@ -1,0 +1,19 @@
+{
+  "name": "TapeDeck // 04 Studio",
+  "short_name": "TapeDeck",
+  "description": "Human-first 4-track music studio, polyphonic synth, and 24-bit WAV recorder.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1c1714",
+  "theme_color": "#28231f",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%2328231f'/><rect x='56' y='116' width='400' height='280' rx='32' fill='%23e05a2b'/><circle cx='176' cy='256' r='54' fill='%231c1714' stroke='%23f4efe6' stroke-width='16'/><circle cx='336' cy='256' r='54' fill='%231c1714' stroke='%23f4efe6' stroke-width='16'/><rect x='160' y='340' width='192' height='24' rx='8' fill='%231c1714'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
